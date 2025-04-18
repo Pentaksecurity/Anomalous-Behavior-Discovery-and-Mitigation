@@ -1,7 +1,6 @@
 # Anomalous-Behavior-Discovery-and-Mitigation
 
 <img width="589" alt="Screen Shot 2025-04-18 at 5 38 30 PM" src="https://github.com/user-attachments/assets/9c89c5d7-a3ef-4c4d-b5ac-438af66d1c0b" />
-<img width="586" alt="Screen Shot 2025-04-18 at 5 39 10 PM" src="https://github.com/user-attachments/assets/15825de5-2982-4d67-9d8f-df4e4c5d88d1" />
 
 # Wireshark Pcap file analysis
 
